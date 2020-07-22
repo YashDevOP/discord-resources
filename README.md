@@ -8,7 +8,7 @@ An OSS repository with a bunch of resources related to Discord like - badges, bo
 - [Discord Badges](https://github.com/TrustedMercury/discord-resources/tree/master/Discord%20Badges) - .svg files of every Discord user badge someone can get on their profile
 
 ### Development
-
+- [Discord Bot Website Template](https://github.com/TrustedMercury/discord-bot-website-template) - An opensource editable discord bot website template that you can use to make your bot seem more professional!
 
 ### Miscellaneous
 - [Discord Welcome Messages](https://github.com/TrustedMercury/discord-resources/blob/master/Miscellaneous/Discord%20Welcome%20Messages.txt) - A list of default discord welcome messages.
