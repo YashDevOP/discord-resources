@@ -1,5 +1,5 @@
 # discord-resources
-An OSS repository with a bunch of resources related to Discord like - badges, bot website template, etc.
+An OSS repository with a bunch of other OSS resources related to Discord like - badges, bot website template, etc.
 
 ## Resource Categories
 
