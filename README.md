@@ -16,3 +16,7 @@ An OSS repository with a bunch of other OSS resources related to Discord like - 
 
 ### Miscellaneous
 - [Discord Welcome Messages](https://github.com/TrustedMercury/discord-resources/blob/master/Miscellaneous/Discord%20Welcome%20Messages.txt) - A list of default discord welcome messages.
+
+### Websites
+- [Discord Bot List](https://top.gg) - Find cool new discord bots to help your server grow and remain active!
+- [discord.bio](https://discord.bio) - Create cool profiles and expand your discord profile with new connections and other cool stuff!
