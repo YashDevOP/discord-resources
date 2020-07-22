@@ -9,6 +9,7 @@ An OSS repository with a bunch of resources related to Discord like - badges, bo
 
 ### Development
 - [Discord Bot Website Template](https://github.com/TrustedMercury/discord-bot-website-template) - An opensource editable discord bot website template that you can use to make your bot seem more professional!
+- [discord.py Bot Template](https://github.com/devspace-discord/discordpy-bot-template) - An opensource discord bot template that you can use if you're new to discord bot development or just want the base code ready to go
 
 ### Miscellaneous
 - [Discord Welcome Messages](https://github.com/TrustedMercury/discord-resources/blob/master/Miscellaneous/Discord%20Welcome%20Messages.txt) - A list of default discord welcome messages.
