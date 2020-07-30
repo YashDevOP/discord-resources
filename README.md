@@ -12,6 +12,7 @@ An OSS repository with a bunch of other OSS resources related to Discord like - 
 - [Community API Libraries](https://discord.com/developers/docs/topics/community-resources) - An official list of all popular API libraries for different programming languages
 - [Discord Embed Visualizer](https://leovoel.github.io/embed-visualizer) - Visualize and predict how your discord embed will look and then convert it to code 😀
 - [Discord Bot Website Template](https://github.com/TrustedMercury/discord-bot-website-template) - An opensource editable discord bot website template that you can use to make your bot seem more professional!
+- [Scratch for Discord Bots](https://github.com/Androz2091/scratch-for-discord)
 - [discord.py Bot Template](https://github.com/devspace-discord/discordpy-bot-template) - An opensource discord bot template that you can use if you're new to discord bot development or just want the base code ready to go
 
 ### Miscellaneous
