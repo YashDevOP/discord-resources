@@ -20,4 +20,5 @@ An OSS repository with a bunch of other OSS resources related to Discord like - 
 
 ### Websites
 - [Discord Bot List](https://top.gg) - Find cool new discord bots to help your server grow and remain active!
-- [discord.bio](https://discord.bio) - Create cool profiles and expand your discord profile with new connections and other cool stuff!
+- [discord.style](https://discord.style) - Find popular discord server templates and transform your server with a single command!S
+- [discord.bio](https://discord.bio) - Create descriptive profiles and expand your discord profile with new connections and other cool stuff!
