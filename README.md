@@ -7,6 +7,7 @@ An opensource repository with a bunch of other resources related to Discord like
 - [Discord Branding](https://discord.com/branding) - All Discord brand information, like - logos, color palettes, etc.
 - [Discord Badges](https://github.com/TrustedMercury/discord-resources/tree/master/Discord%20Badges) - .svg files of every Discord user badge someone can get on their profile
 - [Discord Logo Branding](https://github.com/TrustedMercury/discord-resources/tree/master/Branding) - .svg and .png files of the Discord logo including full logo, mark and wordmark!
+- [Discord Color Palette](https://github.com/TrustedMercury/discord-resources/blob/master/Branding/colors.json) - A JSON object that holds the official discord color scheme!
 
 ### Development
 - [Discord API Documentation](https://discord.com/developers/docs/intro) - Official Documentation for the Discord API.
