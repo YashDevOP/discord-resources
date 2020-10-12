@@ -22,4 +22,5 @@ An opensource repository with a bunch of other resources related to Discord like
 ### Websites
 - [Discord Bot List](https://top.gg) - Find cool new discord bots to help your server grow and remain active!
 - [discord.style](https://discord.style) - Find popular discord server templates and transform your server with a single command!
+- [emoji.gg](https://emoji.gg) - Find fun emojis for your discord server from emoji.gg! Choose from thousands of community-uploaded emojis.
 - [discord.bio](https://discord.bio) - Create descriptive profiles and expand your discord profile with new connections and other cool stuff!
